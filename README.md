@@ -1,3 +1,2 @@
-# simple-chatbot-
+# CODSOFT
 this is my first repository
-CODSOFT
